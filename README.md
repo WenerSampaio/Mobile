@@ -6,7 +6,7 @@
 * git config --global --unset user.mail --> apaga configuração de email;
 * git config --global --unset user.nickname --> apaga configuração de nome de usuário;
 * git config --global user.mail "meuemail@mail.com"--> personaliza configuração de email;
-* git config --global user.nickname "wenersampaio"--> personaliza configuração de nome do usuário.
+* git config --global user.nickname "meunickname"--> personaliza configuração de nome do usuário.
 
 ### 2) Pra realizar um commit:
 * Entrar no github/profile/ --> ver informações importantes do meu perfil;
